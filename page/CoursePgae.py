@@ -1,0 +1,2 @@
+class CoursePage(object):
+    pass
